@@ -7,6 +7,7 @@
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Oracle BI, PowerBI and Looker Tableau.
 - Data analysis and reporting using Google Sheets and Excel.
+  
 📚Projects
 Welcome to my portfolio, where I showcase my projects.
 🛠️ Tools
