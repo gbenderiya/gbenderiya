@@ -9,8 +9,10 @@
 - Data analysis and reporting using Google Sheets and Excel.
   
 📚Projects
+
 Welcome to my portfolio, where I showcase my projects.
 🛠️ Tools
+
 - Language: SQL, Python
 - Database: Oracle, MSSQL, PostgreSQL, MongoDB
 - Visualization: OracleBI, PowerBI and Tableau
