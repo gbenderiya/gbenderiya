@@ -1,5 +1,6 @@
 ## Hi, I'm Ganna Benderiya 👋
 🔭 I’m currently Data Science Graduate Student.
+
 🌱 I’m skilled in data analysis and reporting, query optimization, database design, and data modelling.
 
 - Querying data using SQL.
