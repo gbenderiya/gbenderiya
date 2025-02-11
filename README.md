@@ -10,7 +10,7 @@
   
 📚Projects
 
-Welcome to my portfolio, where I showcase my [projects](README.md).
+Welcome to my portfolio, where I showcase my [projects](portfolio/README.md).
 
 🛠️ Tools
 - Language: SQL, Python
