@@ -10,7 +10,7 @@
   
 📚Projects
 
-Welcome to my portfolio, where I showcase my [projects](portfolio/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/gbenderiya/portfolio/blob/main/README.md).
 
 🛠️ Tools
 - Language: SQL, Python
